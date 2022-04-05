@@ -1,0 +1,30 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    justify-content: space-between;
+}
+#title{
+    color: #fff;
+    font-weight: bold;
+    font-size: 25px;
+}
+#in{
+    height: 100px;
+    width: 150px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 50px;
+}
+#fbtn{
+    width: 50px;
+    border-radius: 15px;
+    align-items: center;
+}
+#fbtn:hover{
+    color:#fff;
+    background-color: blue;
+}

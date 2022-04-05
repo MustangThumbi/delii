@@ -1,0 +1,23 @@
+#deli{
+    display: flex;
+    flex-direction: row;
+}
+.expla{
+    display: flex;
+    color:#333;
+    font-family: arial,
+    "Microsoft Yahei",
+    "Hiragino Sans GB",
+    sans-serif;
+    font-size:20px;
+    background-color: #fff;
+    box-sizing: border-box;
+    justify-content: center;
+    width: auto;
+    border: 2px solid;
+    box-shadow: 4px 4px, #333;
+}
+h1{
+    display: flex;
+   justify-content: center;
+}

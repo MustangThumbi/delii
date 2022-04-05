@@ -1,0 +1,11 @@
+#lp{
+    display: flex;
+    flex-direction: row;
+    gap:20px;
+}
+#padd{
+  
+    margin-top: 20px;
+    width: 100px;
+    height: 50px;
+}
